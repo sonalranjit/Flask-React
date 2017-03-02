@@ -1,0 +1,22 @@
+{
+  "name": "flask-react",
+  "homepage": "https://github.com/sonalranjit/Flask-React",
+  "authors": [
+    "Sonal Ranjit <sonal.ranjit3@gmail.com>"
+  ],
+  "description": "Simple Flask React app",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.4.2",
+    "bootstrap": "^3.3.7"
+  }
+}
